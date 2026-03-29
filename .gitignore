@@ -1,0 +1,6 @@
+nemo_env/
+__pycache__/
+.env
+*.log
+.venv/
+.vscode/
