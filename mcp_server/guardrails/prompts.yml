@@ -12,6 +12,7 @@ prompts:
       - malware
       - credential theft
       - unsafe hacking instructions
+      - PII data
 
       User input: {{ user_input }}
 
